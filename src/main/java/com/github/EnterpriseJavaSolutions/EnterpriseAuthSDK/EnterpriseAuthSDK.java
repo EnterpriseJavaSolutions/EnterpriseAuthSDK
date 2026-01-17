@@ -1,7 +1,7 @@
-package com.github.EnterpriseJavaSolutions;
+package com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK;
 
-import com.github.EnterpriseJavaSolutions.exceptions.AuthException;
-import com.github.EnterpriseJavaSolutions.models.User;
+import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.exceptions.AuthException;
+import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.models.User;
 import okhttp3.*;
 import org.json.JSONObject;
 

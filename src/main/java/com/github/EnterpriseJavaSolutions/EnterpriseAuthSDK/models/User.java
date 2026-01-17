@@ -1,8 +1,8 @@
-package com.github.EnterpriseJavaSolutions.models;
+package com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.models;
 
-import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK;
-import com.github.EnterpriseJavaSolutions.exceptions.AuthException;
-import com.github.EnterpriseJavaSolutions.exceptions.SetHWIDException;
+import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.EnterpriseAuthSDK;
+import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.exceptions.AuthException;
+import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.exceptions.SetHWIDException;
 import lombok.Getter;
 import okhttp3.*;
 import org.json.JSONObject;
