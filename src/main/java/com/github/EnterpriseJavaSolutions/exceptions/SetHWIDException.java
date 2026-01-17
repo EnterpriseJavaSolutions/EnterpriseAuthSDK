@@ -1,4 +1,4 @@
-package com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.exceptions;
+package com.github.EnterpriseJavaSolutions.exceptions;
 
 public class SetHWIDException extends RuntimeException {
     public SetHWIDException(String message) {

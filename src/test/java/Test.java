@@ -1,6 +1,6 @@
-import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.EnterpriseAuthSDK;
-import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.exceptions.AuthException;
-import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.models.User;
+import com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK;
+import com.github.EnterpriseJavaSolutions.exceptions.AuthException;
+import com.github.EnterpriseJavaSolutions.models.User;
 
 public class Test {
     static EnterpriseAuthSDK sdk = new EnterpriseAuthSDK("https://enterprise-auth.vercel.app");

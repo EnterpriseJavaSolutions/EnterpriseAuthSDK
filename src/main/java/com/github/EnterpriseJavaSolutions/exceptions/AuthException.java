@@ -1,4 +1,4 @@
-package com.github.EnterpriseJavaSolutions.EnterpriseAuthSDK.exceptions;
+package com.github.EnterpriseJavaSolutions.exceptions;
 
 public class AuthException extends RuntimeException {
     public AuthException(String message) {
