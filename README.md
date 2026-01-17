@@ -5,4 +5,5 @@ An SDK designed to interact with [EnterpriseAuth](https://github.com/EnterpriseJ
 ![badge](https://jitpack.io/v/EnterpriseJavaSolutions/EnterpriseAuthSDK.svg)
 <br>
 https://jitpack.io/#EnterpriseJavaSolutions/EnterpriseAuthSDK
+<br>
 View the test file in src/test/java/Test.java
