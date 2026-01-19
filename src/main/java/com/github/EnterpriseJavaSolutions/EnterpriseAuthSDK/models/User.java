@@ -19,7 +19,7 @@ public class User {
     public boolean hwidSet;
     @Getter
     public String hwid;
-    private String token;
+    public String token;
 
     private static final OkHttpClient client = new OkHttpClient();
 
